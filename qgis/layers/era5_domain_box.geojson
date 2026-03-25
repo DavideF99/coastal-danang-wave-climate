@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ERA5 Extraction Domain",
+        "description": "2x2 degree box, 0.5 degree wave grid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.0,
+              15.0
+            ],
+            [
+              109.0,
+              15.0
+            ],
+            [
+              109.0,
+              17.0
+            ],
+            [
+              107.0,
+              17.0
+            ],
+            [
+              107.0,
+              15.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
