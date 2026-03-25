@@ -21,7 +21,7 @@ Da Nang Bay is located on the central coast of Vietnam, directly exposed to the 
 
 The study area map shows the analysis domain and its position relative to the Vietnamese coastline and South China Sea basin.
 
-![Study Area Map](outputs/study_area_map.png)
+![Study Area Map](outputs/maps/da_nang_study_area.png)
 
 ---
 
@@ -72,7 +72,7 @@ Percentage of time with favorable conditions by season:
 
 The wave scatter diagram reveals the joint distribution of significant wave height and mean wave period:
 
-![Wave Scatter Diagram](outputs/wave_scatter_diagram.png)
+![Wave Scatter Diagram](outputs/figures/wave_scatter_diagram.png)
 
 - **Most Frequent Conditions:** Hs = 0.5-1.0m with Tp = 4-6s (29.83% of observations)
 - **Modal Peak:** Low energy seas (Hs < 1m) account for >60% of the record
@@ -245,27 +245,27 @@ See `requirements.txt` for complete list with version specifications.
 
 ### 1. Study Area Map
 
-![Study Area](outputs/study_area_map.png)
+![Study Area](outputs/maps/da_nang_study_area.png)
 _Geographic context showing Da Nang Bay location and ERA5 extraction grid_
 
 ### 2. Seasonal Wave Roses
 
-![Seasonal Wave Roses](outputs/seasonal_wave_roses.png)
+![Seasonal Wave Roses](outputs/figures/wave_roses_seasonal.png)
 _Directional distribution of significant wave height across four seasons, revealing dominant NE monsoon influence_
 
 ### 3. Wave Scatter Diagram
 
-![Wave Scatter Diagram](outputs/wave_scatter_diagram.png)
-_Joint probability distribution of significant wave height and mean period, with color indicating frequency of occurrence_
+![Wave Time Series Diagram](outputs/figures/hs_timeseries.png)
+_Distribution of wave height corresponding to time of year_
 
 ### 4. Extreme Value Analysis
 
-![Return Period Plot](outputs/return_period_plot.png)
+![Return Period Plot](outputs/figures/return_period_curve.png)
 _Gumbel fit to annual maxima with extrapolated design wave heights for 10, 50, and 100-year return periods_
 
 ### 5. Joint Probability Table
 
-![Joint Probability Table](outputs/joint_probability_table.png)
+![Joint Probability Table](outputs/figures/wave_scatter_diagram.png)
 _Binned Hs-Tp matrix showing frequency distribution, standard deliverable for coastal engineering design_
 
 ---
@@ -324,7 +324,7 @@ This analysis provides critical information for:
 ## Author
 
 **[Your Name]**  
-Coastal Engineer | [Your Email] | [LinkedIn Profile]
+Coastal Engineer | dferreri45@gmail.com | www.linkedin.com/in/davide-ferreri
 
 This project was developed as part of a coastal engineering portfolio demonstrating proficiency in:
 
