@@ -323,7 +323,7 @@ This analysis provides critical information for:
 
 ## Author
 
-**[Your Name]**  
+**Davide Ferreri**  
 Coastal Engineer | dferreri45@gmail.com | www.linkedin.com/in/davide-ferreri
 
 This project was developed as part of a coastal engineering portfolio demonstrating proficiency in:
